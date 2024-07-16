@@ -79,7 +79,7 @@ Kullanıcı temel sayfalarının arayüzleri, algoritmaları kodlanmış, Fireba
 + Beyzenur Karakaya
 + Cennet
 + Anıl
-+ Ece Güleç
++ Ece Gülenç
 ## Sprint Retrospective
 
 Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
