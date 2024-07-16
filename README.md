@@ -4,11 +4,11 @@ Takım Flutter 40
 # Ürün İle İlgili Bilgiler
 ## Takım Elemanları
 
-+ Ruha Kabbani: Scrum Master / Product Owner / Developer
-+ Muhammed Mustafa Aksoy: Developer
-+ Sümeyye Aydoğan: Developer
-+ Yunus Emre Gürel: Developer
-+ Zeynep Nur Meşe: Aktif Olmayan Üye
++ Anıl : Scrum Master / Product Owner / Developer
++ cennet: Developer
++  Ruha Kabbani: Developer
++ Ece gülenç: Developer
++ beyzanur:Developer
 ## Ürün İsmi
 --Türkiye Şehirleri Bilgi Uygulaması--
 
