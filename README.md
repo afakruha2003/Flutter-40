@@ -63,12 +63,12 @@ https://app.asana.com/0/1207729636073844/1207729793973091
 # Sprint 2
 **Sprint içinde tamamlanması tahmin edilen puan:** 120 Puan
 
-## Daily Scrum
++ **Daily Scrum**
 
-## Sprint Board Update
++ **Sprint Board Update**
 Sprint board screenshotları: Backlog 1
 
-## Ürün Durumu
++ **Ürün Durumu** 
 **Ekran görüntüleri:**
 
 ## Sprint Review
@@ -80,7 +80,7 @@ Kullanıcı temel sayfalarının arayüzleri, algoritmaları kodlanmış, Fireba
 + Cennet
 + Anıl
 + Ece Gülenç
-## Sprint Retrospective
++ **Sprint Retrospective** 
 
 Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 Product Backlog URL
