@@ -50,7 +50,7 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Asana üzerinden ya
 
 ## Sprint Board Update
 Sprint board screenshotları: [Görseller veya Linkler]
-Sprint Review: Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, uygulama için veritabanı servisi aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: [Katılımcılar]
+Sprint Review: Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, uygulama için veritabanı servisi aktif edilmiş ve eksiklikler değerlendirilmiştir. 
 
 ## Sprint Retrospective
 
@@ -74,11 +74,11 @@ Sprint board screenshotları: Backlog 1
 + **Sprint Review**
 Alınan kararlar: Kullanıcı temel sayfalarının arayüzleri, algoritmaları kodlanmış, Firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. Sprint Review katılımcıları:
 
-  Ruha Kabbani
-  Beyzenur Karakaya
-  Cennet
-  Anıl
-  Ece Gülenç
+  Ruha Kabbani,
+  Beyzenur Karakaya, 
+  Cennet, 
+  Anıl , 
+  Ece Gülenç , 
   
 * **Sprint Retrospective** 
 
