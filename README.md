@@ -8,7 +8,7 @@ Takım Flutter 40
 + cennet: Developer
 +  Ruha Kabbani: Developer
 + Ece gülenç: Developer
-+ beyzanur:Developer
++ Beyza Nur Karakaya:Developer
 ## Ürün İsmi
 --Türkiye Şehirleri Bilgi Uygulaması--
 
