@@ -61,7 +61,7 @@ Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılm�
 https://app.asana.com/0/1207729636073844/1207729793973091
 
 # Sprint 2
-**Sprint içinde tamamlanması tahmin edilen puan:** 120 Puan
++ **Sprint içinde tamamlanması tahmin edilen puan:** 120 Puan
 
 + **Daily Scrum**
 
@@ -71,16 +71,16 @@ Sprint board screenshotları: Backlog 1
 + **Ürün Durumu** 
 **Ekran görüntüleri:**
 
-## Sprint Review
-**Alınan kararlar:** 
-Kullanıcı temel sayfalarının arayüzleri, algoritmaları kodlanmış, Firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. Sprint Review katılımcıları:
++ **Sprint Review**
+Alınan kararlar: Kullanıcı temel sayfalarının arayüzleri, algoritmaları kodlanmış, Firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. Sprint Review katılımcıları:
 
 + Ruha Kabbani
 + Beyzenur Karakaya
 + Cennet
 + Anıl
 + Ece Gülenç
-+ **Sprint Retrospective** 
+  
+* **Sprint Retrospective** 
 
 Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 Product Backlog URL
