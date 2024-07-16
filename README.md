@@ -14,7 +14,7 @@ Takım Flutter 40
 
 ## Product Backlog URL
 Flutter Team 40 Asana Backlog Board
-
+https://app.asana.com/0/1207729636073844/1207729793973091
 ## Ürün Açıklaması
 Türkiye Şehirleri Bilgi Uygulaması, Türkiye'nin 81 iline dair detaylı bilgi sağlayan bir mobil uygulamadır. Uygulama, şehirler hakkında videolar, restoranlar, gezilecek yerler ve ünlü mekanlar gibi kategorilere ayrılmış yazılı bilgiler sunar. Her şehir için öne çıkan yemekler ve ziyaret edilecek yerler hakkında kapsamlı bilgiler sağlar. Ayrıca, kullanıcıların şehirlerin gastronomi ve turistik noktalarını keşfetmelerine yardımcı olur. Uygulamanın amacı, kullanıcıların Türkiye'nin farklı şehirleri hakkında derinlemesine bilgi edinmesini ve seyahat planlarını kolaylaştırmasını sağlamaktır.
 
