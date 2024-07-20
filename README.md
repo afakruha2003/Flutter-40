@@ -5,7 +5,7 @@ Takım Flutter 40
 ## Takım Elemanları
 
 + Anıl Barış Altuntaş : Scrum Master / Product Owner / Developer
-+ Cennet Gizem: Developer
++ Cennet Gizmen :Developer
 +  Ruha Kabbani: Developer
 + Ece gülenç: Developer
 + Beyza Nur Karakaya:Developer
@@ -76,7 +76,7 @@ Alınan kararlar: Kullanıcı temel sayfalarının arayüzleri, algoritmaları k
 
   Ruha Kabbani,
   Beyzenur Karakaya, 
-  Cennet Gizem, 
+  Cennet Gizmen, 
   Anıl Barış Altuntaş , 
   Ece Gülenç . 
   
