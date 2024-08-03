@@ -91,23 +91,23 @@ https://app.asana.com/0/1207729636073844/1207729793973091
 Toplam Tahmini Puan:
 İkinci sprintten kalan 120 puanın eklenmesiyle bu sprint için toplam puan: 240.
 
-**Daily Scrum:**
+## Daily Scrum:
 Zamanlama Sebebiyle Değişiklik: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir.
 Dokümantasyon: Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de 'Sprint 3 Daily Scrum Chats' başlığı altında paylaşılmaktadır.
-**Sprint Board Update:**
+## Sprint Board Update:
 Sprint Board Görselleri: Backlog 1
-**Ürün Durumu:**
+## Ürün Durumu:
 **Ekran Görüntüleri:** Screenshot 1, Screenshot 2, Screenshot 3
-**Sprint Review:**
+## Sprint Review:
 **Alınan Kararlar:** Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir.
-**Sprint Review Katılımcıları:** 
+## Sprint Review Katılımcıları:
   Ruha Kabbani,
   Beyzenur Karakaya, 
   Cennet Gizmen, 
   Anıl Barış Altuntaş , 
   Ece Gülenç . 
   
-**Sprint Retrospective:**
+## Sprint Retrospective:
 Gelecek Projeler için Öneriler: Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
 
