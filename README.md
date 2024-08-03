@@ -97,7 +97,11 @@ Dokümantasyon: Daily Scrum toplantısı örneği jpeg veya word olarak Readme'd
 ## Sprint Board Update:
 Sprint Board Görselleri: Backlog 1
 ## Ürün Durumu:
-**Ekran Görüntüleri:** Screenshot 1, Screenshot 2, Screenshot 3
+**Ekran Görüntüleri:** ![WhatsApp Image 2024-08-02 at 1 39 44 AM (4)](https://github.com/user-attachments/assets/6cc46cc8-39aa-410d-bb04-4e7f2f3fec11)
+![WhatsApp Image 2024-08-02 at 1 39 44 AM](https://github.com/user-attachments/assets/30bd667c-e0ef-43ae-9c20-dfa707fa1e50)
+![WhatsApp Image 2024-08-02 at 1 39 44 AM (1)](https://github.com/user-attachments/assets/a49190ee-5387-4354-b17d-a9a1bd3c2cb7)
+![WhatsApp Image 2024-08-02 at 1 39 44 AM (2)](https://github.com/user-attachments/assets/e7d1e787-e4dd-433d-9799-33c612c9400d)
+![WhatsApp Image 2024-08-02 at 1 39 44 AM (3)](https://github.com/user-attachments/assets/4bd623b0-e181-401c-ba55-845d6215af42)
 ## Sprint Review:
 **Alınan Kararlar:** Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir.
 ## Sprint Review Katılımcıları:
