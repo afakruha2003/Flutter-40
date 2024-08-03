@@ -68,7 +68,7 @@ https://app.asana.com/0/1207729636073844/1207729793973091
 + **Sprint Board Update**
 Sprint board screenshotları: Backlog 1
 
-+ **Ürün Durumu** 
++ ## Ürün Durumu 
 **Ekran görüntüleri:** ![WhatsApp Image 2024-08-02 at 1 39 44 AM (4)](https://github.com/user-attachments/assets/6cc46cc8-39aa-410d-bb04-4e7f2f3fec11)
 ![WhatsApp Image 2024-08-02 at 1 39 44 AM](https://github.com/user-attachments/assets/30bd667c-e0ef-43ae-9c20-dfa707fa1e50)
 
