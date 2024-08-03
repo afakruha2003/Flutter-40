@@ -94,7 +94,7 @@ Toplam Tahmini Puan:
 
 ## Daily Scrum:
 Zamanlama Sebebiyle Değişiklik: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir.
-Dokümantasyon: Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de 'Sprint 3 Daily Scrum Chats' başlığı altında paylaşılmaktadır.
+
 ## Sprint Board Update:
 Sprint Board Görselleri: Backlog 1
 ## Ürün Durumu:
