@@ -64,7 +64,7 @@ https://app.asana.com/0/1207729636073844/1207729793973091
 + **Sprint içinde tamamlanması tahmin edilen puan:** 120 Puan
 
 + ## Daily Scrum
-![Ekran görüntüsü 2024-08-03 190832](https://github.com/user-attachments/assets/7d8b4f94-6f39-4476-9d30-5fe4571e5c23)
+
 + **Sprint Board Update**
 Sprint board screenshotları: Backlog 1
 
@@ -94,7 +94,7 @@ Toplam Tahmini Puan:
 
 ## Daily Scrum:
 Zamanlama Sebebiyle Değişiklik: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir.
-
+![Ekran görüntüsü 2024-08-03 190832](https://github.com/user-attachments/assets/7d8b4f94-6f39-4476-9d30-5fe4571e5c23)
 ![Ekran görüntüsü 2024-08-03 190920](https://github.com/user-attachments/assets/249b6621-f29e-4b61-a9d7-3055df833476)
 
 ## Sprint Board Update:
