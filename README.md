@@ -98,7 +98,7 @@ Zamanlama Sebebiyle Değişiklik: Daily Scrum toplantılarının zamansal sebepl
 ![Ekran görüntüsü 2024-08-03 190920](https://github.com/user-attachments/assets/249b6621-f29e-4b61-a9d7-3055df833476)
 
 ## Sprint Board Update:
-Sprint Board Görselleri: Backlog 1
+ ![asana](https://github.com/user-attachments/assets/3c2c3d61-a4c3-4fb6-aa17-d5c1653579ba)
 ## Ürün Durumu:
 **Ekran Görüntüleri:**
 
